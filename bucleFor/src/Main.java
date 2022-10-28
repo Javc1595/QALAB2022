@@ -17,7 +17,7 @@ public class Main {
         for(int i=0; i<=5; i++){
             System.out.println("Hola: " + i);
             for(int j=i; j<=3+i; j++){
-                System.out.println("\t: valor " + j);
+                System.out.println("\t: valorES " + j);
             }
         }
     }
